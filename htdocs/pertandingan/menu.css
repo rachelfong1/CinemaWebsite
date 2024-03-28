@@ -1,0 +1,89 @@
+h2{
+    font-family: verdana;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    color: yellow;
+    
+    margin: Opx auto;
+    padding-bottom: 20px;
+}
+
+body{
+    margin: Opx;
+}
+
+div {
+    text-align: center;
+    margin: Opx auto;
+    padding-top: 20px;
+}
+
+div.menu{
+    height:85px;
+    background-color: saddlebrown;
+}
+
+div.peserta{
+    width: 420px;
+}
+
+div.hakim{
+    width: 560px;
+}
+
+div.urusetia{
+    width: 700px;
+}
+
+ul{
+    list-style: none;
+    padding: Opx;
+    margin: Opx;
+    text-align: center;
+}
+
+ul li{
+    display: block;
+    float: left;
+}
+
+li ul {
+    display: none;
+}
+
+ul li a {
+    font-family: verdana;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+    color: white;
+    
+    width: 120px;
+    padding: 10px;
+    border: none;
+    margin: Opx;
+    background-color: chocolate;
+    
+    display: block;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: white;
+    background-color: tan;
+}
+
+li:hover ul {
+    display: block;
+    position: absolute;
+}
+
+li:hover li {
+    float: none;
+}
+
+li:hovera {
+    color: white;
+    background-color: saddlebrown;
+}
