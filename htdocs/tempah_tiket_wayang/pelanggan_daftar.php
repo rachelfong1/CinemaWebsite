@@ -11,7 +11,7 @@ Nama pelanggan         <input class="w3-input w3-border w3-round-large" type='te
 Nokp ahli         <input class="w3-input w3-border w3-round-large" type='text' name='nokp'><br>
 No Tel ahli       <input class="w3-input w3-border w3-round-large" type='text' name='notel'><br>
 Katalaluan ahli   <input class="w3-input w3-border w3-round-large" type='password' name='katalaluan'><br>
-                  <input class= "w3-button w3-block w3-round-xlarge w3-light-green" type='submit' value='Apple'>
+                  <input class= "w3-button w3-block w3-round-xlarge w3-light-green" type='submit' value='Submit'>
 </form>
 
   </div>
@@ -27,7 +27,7 @@ Katalaluan ahli   <input class="w3-input w3-border w3-round-large" type='passwor
 
 <div class = "w3-animate-left w3-text-white w3-text-xlarge w3-container w3-black w3-hover-brown" style="text-shadow:1px 1px 0 #444">
 
-<h1><b>Rachel</b></h1>
+<h1><b>ABOUT TRAW</b></h1>
       
 </div>
 
@@ -37,7 +37,7 @@ Katalaluan ahli   <input class="w3-input w3-border w3-round-large" type='passwor
 
 
 <div class="w3-panel w3-border-left w3-border-black w3-container w3-blue-gray">
-  <h2>Rachel Fong</h2>
+  <h2>TRAW CINEMA</h2>
   <p>Since first opening our doors in 1994, we’ve entertained countless moviegoers with memories of a special day out.
 
 From the latest blockbusters to intimate dramas, with a dash of documentaries, sports and culture also in the mix, TRAW’s diverse range of entertainment means there’s something for everyone.
@@ -48,9 +48,6 @@ We also take pride in the flavour-rich quality of our food & beverages, offering
 
 At TRAW, it’s not just about movies - it’s a total entertainment experience.</P>
 
-
-
-<a href = "https://www.bumigemilang.com/modul-soalan-sains-komputer-untuk-spm-jawapan/"> Buku </a>
 
    
 

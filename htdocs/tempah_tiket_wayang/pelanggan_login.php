@@ -44,7 +44,7 @@ Katalaluan      <input class="w3-input w3-border w3-round-large" type='password'
 <!-- iklan 1 -->
 <div class="w3-row">
   <div class="w3-third w3-container">
-    <img src= "445_run.mp4" class= "w3-image">
+    <img src= "images/promo5.jpeg" class= "w3-image">
   </div>
   <div class="w3-third w3-container">
     <img src= "images/promo4.png" class= "w3-image">
